@@ -1,0 +1,8 @@
+.main-header {
+    margin: 0;
+    background: red;
+    width: 100vw;
+    height: 100px;
+    flex-shrink: 0;
+    display: inline-flex
+}
